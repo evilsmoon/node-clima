@@ -3,7 +3,7 @@
 ### Iniciar Proyecto
 #### Clonar Repositorio
 ~~~
-git clone 
+git clone https://github.com/evilsmoon/node-clima.git
 cd 
 npm i
 ~~~
