@@ -4,7 +4,7 @@
 #### Clonar Repositorio
 ~~~
 git clone https://github.com/evilsmoon/node-clima.git
-cd 
+cd node-clima
 npm i
 ~~~
 ### NPM INSTALL
